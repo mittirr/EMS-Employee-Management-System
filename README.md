@@ -1,8 +1,10 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# EMP- Employee-Management-System:
+###
+<h2 align="left">A React Based web application to Manage and Organise tasks in an Organisation</p>
+  
+<h3 align="left">Features</h3>
+<ul>
+  <li>Assign tasks to employees</li>
+  <li>See all employee's task statuses in one place</li>
+  <li>Mark task as Accepted/Completed/Failed</li>
+</ul>
